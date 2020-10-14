@@ -1,6 +1,6 @@
 <p align="center"> 
-    <a href="https://circleci.com/gh/Alpha-ka-JS/Vanilla-JS/tree/master">
-        <img src="https://circleci.com/gh/Alpha-ka-JS/Vanilla-JS/tree/master.svg?style=svg">
+    <a href="https://circleci.com/gh/Alpha-ka-JS/Vanilla-JS/tree/main">
+        <img src="https://circleci.com/gh/Alpha-ka-JS/Vanilla-JS/tree/main.svg?style=svg">
     <a href="https://github.com/Alpha-ka-JS/Vanilla-JS/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/github/contributors/Alpha-ka-js/Vanilla-JS?&color=brightgreen" /></a>
     <a href="#" alt="Languages">
