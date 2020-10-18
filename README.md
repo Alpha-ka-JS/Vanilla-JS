@@ -1,18 +1,25 @@
 <p align="center"> 
     <a href="https://circleci.com/gh/Alpha-ka-JS/Vanilla-JS/tree/main">
         <img src="https://circleci.com/gh/Alpha-ka-JS/Vanilla-JS/tree/main.svg?style=svg">
+    </a>
     <a href="https://github.com/Alpha-ka-JS/Vanilla-JS/graphs/contributors" alt="Contributors">
-        <img src="https://img.shields.io/github/contributors/Alpha-ka-js/Vanilla-JS?&color=brightgreen" /></a>
+        <img src="https://img.shields.io/github/contributors/Alpha-ka-js/Vanilla-JS?&color=brightgreen" />
+    </a>
     <a href="#" alt="Languages">
-        <img src="https://img.shields.io/github/languages/count/Alpha-ka-JS/Vanilla-JS?&color=brightgreen" /></a>
+        <img src="https://img.shields.io/github/languages/count/Alpha-ka-JS/Vanilla-JS?&color=brightgreen" />
+    </a>
     <a href="#" alt="TopLanguages">
-        <img src="https://img.shields.io/github/languages/top/Alpha-ka-JS/Vanilla-JS?&color=brightgreen" /></a>
+        <img src="https://img.shields.io/github/languages/top/Alpha-ka-JS/Vanilla-JS?&color=brightgreen" />
+    </a>
     <a href="#">
-        <img src="https://img.shields.io/github/repo-size/Alpha-ka-JS/Vanilla-JS" /></a>
+        <img src="https://img.shields.io/github/repo-size/Alpha-ka-JS/Vanilla-JS" />
+    </a>
     <a href="https://github.com/Alpha-ka-JS/Vanilla-JS/pulse">
-        <img src="https://img.shields.io/github/commit-activity/m/Alpha-ka-JS/Vanilla-JS"></a>
+        <img src="https://img.shields.io/github/commit-activity/m/Alpha-ka-JS/Vanilla-JS">
+    </a>
     <a href="#">
-        <img src="https://img.shields.io/github/last-commit/Alpha-ka-JS/Vanilla-JS"></a>
+        <img src="https://img.shields.io/github/last-commit/Alpha-ka-JS/Vanilla-JS">
+    </a>
 </p>
 
 # [VANILLA JS](https://alpha-ka-js.github.io/Vanilla-JS/)
