@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>hwan-todolist</title>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="user-scalable=0, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, width=device-width"
+    />
+    <link rel="stylesheet" href="index.css" />
+  </head>
+
+  <body>
+    <div class="wrapper">
+      <div class="js-greetings greetings"></div>
+      <div class="js-clock">
+        <h1>00:00</h1>
+      </div>
+      <form class="js-form form">
+        <input type="text" placeholder="What is your name?" />
+      </form>
+      <form class="js-toDoForm">
+        <input type="text" placeholder="Add to do list 📝" />
+      </form>
+      <div class="todo-list">
+        <ul class="js-pending pending">
+          <div>Pending</div>
+        </ul>
+        <ul class="js-finished finished">
+          <div>Finished</div>
+        </ul>
+      </div>
+      <span class="js-weather"> </span>
+    </div>
+    <script
+      src="https://kit.fontawesome.com/6478f529f2.js"
+      crossorigin="anonymous"
+    ></script>
+    <script src="bg.js"></script>
+    <script src="clock.js"></script>
+    <script src="gretting.js"></script>
+    <script src="todo.js"></script>
+    <script src="weather.js"></script>
+  </body>
+</html>
