@@ -54,7 +54,7 @@
 
 # <a name="project-result"></a>Project Results
 
-* [LeeJehwan](https://alpha-ka-js.github.io/Vanilla-JS/LeeJehwan/chrome/clone-project)
-* [soleileun](https://alpha-ka-js.github.io/Vanilla-JS/ChoiEunjoung/chrome/clone-project)
-* [sungwon2054](https://alpha-ka-js.github.io/Vanilla-JS/JeongSungwon/chrome/clone-project)
-* [oosikk](https://alpha-ka-js.github.io/Vanilla-JS/ys/chrome/clone-project)
+* [LeeJehwan](https://alpha-ka-js.github.io/Vanilla-JS/LeeJehwan/chrome/clone-project/)
+* [soleileun](https://alpha-ka-js.github.io/Vanilla-JS/ChoiEunjoung/chrome/clone-project/)
+* [sungwon2054](https://alpha-ka-js.github.io/Vanilla-JS/JeongSungwon/chrome/clone-project/)
+* [oosikk](https://alpha-ka-js.github.io/Vanilla-JS/ys/chrome/clone-project/)
