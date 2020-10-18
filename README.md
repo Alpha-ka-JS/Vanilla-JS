@@ -16,15 +16,18 @@
 </p>
 
 # [VANILLA JS](https://alpha-ka-js.github.io/Vanilla-JS/)
+
 ![javascript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/280px-Unofficial_JavaScript_logo_2.svg.png)
 
 # Table Contents
+
 * [Team Members](#team-members)
 * [Study Schedule](#study-schedule)
 * [Retrospective](#retrospective)
 * [Project Results](#project-result) 
 
 # <a name="team-members"></a>Team Members
+
 * Lee Jehwan([LeeJehwan](https://github.com/LeeJehwan))
 * Choi Eunjoung([soleileun](https://github.com/soleileun))
 * Jeong Sungwon([sungwon2054](https://github.com/sungwon2054))
@@ -39,10 +42,12 @@
 3회|2020/10/19|project
 
 # <a name="retrospective"></a>회고록
+
 * [회고 가이드](https://alpha-ka-js.github.io/Vanilla-JS/Retrospective/)
 
 # <a name="project-result"></a>Project Results
+
 * [LeeJehwan](https://alpha-ka-js.github.io/Vanilla-JS/LeeJehwan/chrome/clone-project)
 * [soleileun](https://alpha-ka-js.github.io/Vanilla-JS/ChoiEunjoung/chrome/clone-project)
-* [sungwon2054](https://alpha-ka-js.github.io/Vanilla-JS/JeongSungWon/chrome/clone-project)
+* [sungwon2054](https://alpha-ka-js.github.io/Vanilla-JS/JeongSungwon/chrome/clone-project)
 * [oosikk](https://alpha-ka-js.github.io/Vanilla-JS/ys/chrome/clone-project)
