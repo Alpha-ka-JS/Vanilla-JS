@@ -3,7 +3,7 @@
   "extends": ["eslint:recommended", "plugin:prettier/recommended"],
   "parserOptions": {
     "ecmaVersion": 7,
-    "sourceType": "script",
+    "sourceType": "module",
     "ecmaFeatures": {
       "jsx": false
     }
@@ -19,16 +19,7 @@
       {
         "endOfLine": "auto"
       }
-    ],
-    "no-redeclare": 0,
-    "no-undef": 0,
-    "no-unused-vars": 0,
-    "no-delete-var": 0,
-    "no-constant-condition": 0,
-    "no-empty": 0,
-    "no-sparse-arrays": 0,
-    "no-prototype-builtins": 0,
-    "use-isnan": 0
+    ]
   },
   "parser": "babel-eslint"
 }
