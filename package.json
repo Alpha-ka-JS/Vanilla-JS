@@ -12,7 +12,7 @@
     "eunjoung-lint": "eslint --ext .js,.html ChoiEunjoung/",
     "eunjoung-lint-fix": "eslint --ext .js,.html ChoiEunjoung/ --fix",
     "ys-lint": "eslint --ext .js,.html ys/",
-    "ys-lint-fix": "eslint --ext .js,.html ys/ --fix"
+    "ys-lint-fix": "eslint --ext .js,.html ys/ --fix",
     "daehyun-lint": "eslint --ext .js,.html AhnDaehyun/",
     "daehyun-lint-fix": "eslint --ext .js,.html AhnDaehyun/ --fix"
   },
