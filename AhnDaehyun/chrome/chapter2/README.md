@@ -91,3 +91,58 @@ function handleClick() {
 // title에 변화주기
 title.addEventListener('click', handleClick);
 ```
+
+## 2.5 if-else
+
+10 === 5 처럼 =를 세개써서 비교함, 자바처럼 if, else if, else 로 쓸 수 있다.  
+유저가 클릭할때마다 색깔을 바꿔주는 로직
+
+```javascript
+const title = document.querySelector('#title');
+
+const BASE_COLOR = '#34495e';
+const OTHER_COLOR = '#7f8c8d';
+
+function handleClick() {
+  const currentColor = title.style.color;
+  if (currentColor === BASE_COLOR) {
+    title.style.color = OTHER_COLOR;
+  } else {
+    title.style.color = BASE_COLOR;
+  }
+}
+
+function init() {
+  title.style.color = BASE_COLOR;
+  title.addEventListener('click', handleClick);
+}
+
+init();
+```
+
+## 2.7 toggle
+
+```javascript
+const title = document.querySelector('#title');
+const CLICKED_CLASS = 'clicked';
+
+// 이 코드랑 밑의 toggle 코드랑 똑같음
+function handleClick() {
+  const hasClass = title.classList.contains(CLICKED_CLASS);
+  if (!hasClass) {
+    title.classList.add(CLICKED_CLASS);
+  } else {
+    title.classList.remove(CLICKED_CLASS);
+  }
+}
+// 위 코드랑 똑같이 실행함 super cool!
+function handleClick() {
+  title.classList.toggle(CLICKED_CLASS);
+}
+
+function init() {
+  title.addEventListener('click', handleClick);
+}
+
+init();
+```
