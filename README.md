@@ -39,6 +39,7 @@
 * Choi Eunjoung([soleileun](https://github.com/soleileun))
 * Jeong Sungwon([sungwon2054](https://github.com/sungwon2054))
 * ys([oosikk](https://github.com/oosikk))
+* Ahn Daehyun([daehyun1023](https://github.com/daehyun1023))
 
 # <a name="study-schedule"></a>Study Schedule
 
@@ -58,3 +59,4 @@
 * [soleileun](https://alpha-ka-js.github.io/Vanilla-JS/ChoiEunjoung/chrome/clone-project/)
 * [sungwon2054](https://alpha-ka-js.github.io/Vanilla-JS/JeongSungwon/chrome/clone-project/)
 * [oosikk](https://alpha-ka-js.github.io/Vanilla-JS/ys/chrome/clone-project/)
+* [daehyun1023](https://alpha-ka-js.github.io/Vanilla-JS/AhnDaehyun/chrome/clone-project)
