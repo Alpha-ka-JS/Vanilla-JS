@@ -79,7 +79,20 @@ jobs:
       - run:
           name: lint test
           command: npm run ys-lint
-     
+  lint_daehyun:
+    docker:
+      # The primary container is an instance of the first image listed. The job's commands run in this container.
+      - image: cimg/node:current
+    steps:
+      # Reuse the workspace from the build job
+      - attach_workspace:
+          at: . 
+      - run:
+          name: check
+          command: bash ./.circleci/check.sh AhnDaehyun
+      - run:
+          name: lint test
+          command: npm run daehyun-lint     
 workflows:
   version: 2
   build_and_test:
@@ -95,5 +108,8 @@ workflows:
           requires:
             - build
       - lint_ys:
+          requires:
+            - build
+      - lint_daehyun:
           requires:
             - build
