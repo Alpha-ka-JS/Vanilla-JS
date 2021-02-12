@@ -1,6 +1,6 @@
 #!/bin/bash
 
-GIT_LOG=$(git log origin/master.. --oneline --format="%H" ./$1)
+GIT_LOG=$(git log origin/main.. --oneline --format="%H" ./$1)
 echo git log is ${GIT_LOG}
 
 if [ -z "${GIT_LOG}" ]; then
