@@ -26,6 +26,7 @@
 
 const title = document.querySelector("#title");
 const CLICKED_CLASS = "clicked";
+console.log('123123');
 
 // 이 코드랑 밑의 toggle 코드랑 똑같음
 function handleClick(){
