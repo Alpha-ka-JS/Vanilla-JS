@@ -14,9 +14,38 @@ body {
   height: 100vh;
 }
 
+.header{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  width: 100%;
+  z-index: 100;
+}
+
 h1 {
   font-size: 120px;
   margin: 0px;
+}
+
+.js-clock{
+  top:200px;
+}
+
+.js-form{
+  margin:30px;
+  padding: 0px;
+}
+
+.js-form input{
+  font-size: 40px;
+  width:450px;
+  padding-left:15px;
+}
+
+.js-form input::placeholder{
+  font-size: 40px;
 }
 
 h4 {
@@ -24,6 +53,11 @@ h4 {
   font-size: 40px;
   text-decoration: underline;
   margin-bottom: 30px;
+  padding:0px;
+}
+
+.js-toDoForm{
+  top:450px;
 }
 
 input {
@@ -35,7 +69,6 @@ input {
   color: white;
   text-decoration: underline;
   font-weight: 900;
-  /* text-align: center; */
 }
 
 input::placeholder {
@@ -43,8 +76,23 @@ input::placeholder {
   text-decoration: underline;
   font-size: 20px;
   font-weight: 900;
-  /* text-align: center; */
 }
+
+
+.scrollBlind{
+  height:100%;
+  width:340px;
+  overflow-y: scroll;
+}
+
+.view{
+  position:absolute;
+  top: 600px;
+  height: 25%;
+  width:300px;
+  overflow:hidden;
+}
+
 
 ul {
   list-style: none;
@@ -52,11 +100,11 @@ ul {
 }
 
 li {
+  width:250px;
   margin: 5px;
   font-size: 20px;
   font-weight: 900;
   display: flex;
-  align-items: center;
 }
 
 li span {
