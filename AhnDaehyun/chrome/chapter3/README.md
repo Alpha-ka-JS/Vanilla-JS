@@ -42,3 +42,8 @@ localStorage.setItem('nico', true);
 // 로컬저장소에서 nico key의 value값 얻기
 localStorage.getItem('nico');
 ```
+
+## chapter 3.6
+
+localstorage는 객체가 아닌 string만을 받을 수 있음
+그래서 객체들을 string으로 바꿔줘야하는데 `JSON.stringify` 를 사용해서 string으로 바꿔줌
