@@ -59,4 +59,4 @@
 * [soleileun](https://alpha-ka-js.github.io/Vanilla-JS/ChoiEunjoung/chrome/clone-project/)
 * [sungwon2054](https://alpha-ka-js.github.io/Vanilla-JS/JeongSungwon/chrome/clone-project/)
 * [oosikk](https://alpha-ka-js.github.io/Vanilla-JS/ys/chrome/clone-project/)
-* [daehyun1023](https://alpha-ka-js.github.io/Vanilla-JS/AhnDaehyun/chrome/clone-project)
+* [daehyun1023](https://alpha-ka-js.github.io/Vanilla-JS/AhnDaehyun/chrome/clone-project/)
