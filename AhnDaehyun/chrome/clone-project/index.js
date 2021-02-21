@@ -22,28 +22,26 @@
 // // title에 변화주기
 // title.addEventListener("click", handleClick);
 
-
-
-const title = document.querySelector("#title");
-const CLICKED_CLASS = "clicked";
+const title = document.querySelector('#title');
+const CLICKED_CLASS = 'clicked';
+console.log('123123');
 
 // 이 코드랑 밑의 toggle 코드랑 똑같음
-function handleClick(){
+function handleClick() {
   const hasClass = title.classList.contains(CLICKED_CLASS);
-  if(!hasClass){
+  if (!hasClass) {
     title.classList.add(CLICKED_CLASS);
-  }
-  else{
+  } else {
     title.classList.remove(CLICKED_CLASS);
   }
 }
-// 위 코드랑 똑같이 실행함
-function handleClick(){
-  title.classList.toggle(CLICKED_CLASS);
-}
+// // 위 코드랑 똑같이 실행함
+// function handleClick2() {
+//   title.classList.toggle(CLICKED_CLASS);
+// }
 
-function init(){
-  title.addEventListener("click", handleClick);
+function init() {
+  title.addEventListener('click', handleClick);
 }
 
 init();
